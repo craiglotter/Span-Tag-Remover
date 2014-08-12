@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Span Tag Remover", "Span Tag Remover.vbproj", "{A369FD97-178C-478A-920D-377A07272FFC}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{A369FD97-178C-478A-920D-377A07272FFC}.Debug.ActiveCfg = Release|.NET
+		{A369FD97-178C-478A-920D-377A07272FFC}.Debug.Build.0 = Release|.NET
+		{A369FD97-178C-478A-920D-377A07272FFC}.Release.ActiveCfg = Release|.NET
+		{A369FD97-178C-478A-920D-377A07272FFC}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal

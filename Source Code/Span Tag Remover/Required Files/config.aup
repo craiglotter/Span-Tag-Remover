@@ -1,0 +1,3 @@
+APPLICATION_NAME=Span Tag Remover
+EXECUTABLE=Span Tag Remover.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Span Tag Remover/manifest.xml

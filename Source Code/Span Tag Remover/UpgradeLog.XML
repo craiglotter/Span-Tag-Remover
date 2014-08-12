@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Span Tag Remover">
+</Property><Property Name="Solution File" Value="C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Span Tag Remover.sln">
+</Property><Property Name="User Options File" Value="C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Span Tag Remover.suo">
+</Property><Property Name="Date" Value="23 March 2007">
+</Property><Property Name="Time" Value="14:08 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Span Tag Remover.sln" Description="File successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\Span Tag Remover.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Span Tag Remover.suo" Description="File successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\Span Tag Remover.suo">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="Span Tag Remover.vbproj" Description="Project file successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\Span Tag Remover.vbproj">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="Span Tag Remover.vbproj.user" Description="Project user file successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\Span Tag Remover.vbproj.user">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="About_Form.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\About_Form.vb">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="AssemblyInfo.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="Help_Form.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\Help_Form.vb">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="Main_Form.vb" Description="File successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\Main_Form.vb">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="app.config" Description="File successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\app.config">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="Application_Icon.ico" Description="File successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\Application_Icon.ico">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="Span_Tag_Remover.ico" Description="File successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\Span_Tag_Remover.ico">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="About_Form.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\About_Form.resx">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="Help_Form.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\Help_Form.resx">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="Main_Form.resx" Description="File successfully backed up as C:\Work Projects\Completed Projects\Span Tag Remover - 22 October 2004\Source Code\Span Tag Remover\Backup\Main_Form.resx">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="Span Tag Remover.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Span Tag Remover" Source="Span Tag Remover.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Span Tag Remover.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Span Tag Remover.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Span Tag Remover" Source="app.config" Description="File converted successfully. All &lt;supportedRuntime&gt; and &lt;requiredRuntime&gt; tags were removed to enable the project to build and run with Visual Studio 2005.">
+</Event><Event ErrorLevel="3" Project="Span Tag Remover" Source="app.config" Description="Converted">
+</Event></UpgradeLog>
